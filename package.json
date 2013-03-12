@@ -1,0 +1,29 @@
+{
+  "name": "node-microdata-parser",
+  "version": "0.0.1",
+  "description": "node.js html5 microdata parser",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "htmlparser2": "~2.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodeunit tests\\test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saary/node-microdata-parser.git"
+  },
+  "keywords": [
+    "microdata",
+    "parser",
+    "schema.org"
+  ],
+  "author": "Saar Yahalom",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "b01dbca2730d7cd3fa9e077521d50bf584fc0855"
+}
