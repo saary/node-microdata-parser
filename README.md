@@ -13,3 +13,6 @@ microdata.parseUrl('http://www.yelp.com/biz/art-of-the-table-seattle#query:gourm
   console.log('found', items);
 });
 ```
+
+##License
+MIT
